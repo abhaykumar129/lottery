@@ -136,6 +136,4 @@ To run code formatting:
 ```
 forge fmt
 ```
-# lottery
-# lottery
-# lottery
+
